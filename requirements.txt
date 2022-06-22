@@ -1,0 +1,6 @@
+netron
+onnx
+nvidia-pyindex
+nvidia-tensorrt
+onnx-graphsurgeon
+cuda-python
